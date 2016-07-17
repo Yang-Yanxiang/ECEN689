@@ -1,5 +1,1 @@
-# Identity
-
-* Name: Yanxiang Yang
-* GitHubID: leoyyx2009  
-* NetID: leoyyx2009
+# This is the repo to store the code for TAMU class: ECEN689 
